@@ -1,2 +1,3 @@
-# si-komisi-pemuda-baptis
-Sistem Informasi Pengelolaan Data Komisi Pemuda Baptis Papua Tingkat Wilayah Jayapura  Keerom dan Yahukimo Berbasis Web
+# si-alumni-fakultas-teknik-universitas-cenderawasih-uncen
+
+Sistem Informasi Pengelolaan Data Alumni Teknik Universitas Cenderawasih Uncen Berbasis Web
