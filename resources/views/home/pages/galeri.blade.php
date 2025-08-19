@@ -48,8 +48,8 @@
                                             data-lightbox="{{ $g->judul }}" class="my-auto"><i
                                                 class="fas fa-plus fa-2x text-white"></i></a>
 
-                                        {{-- <p class="text-center mb-5 text-white"> {{$g->keterangan}}
-                                    </p> --}}
+                                        {{-- <p class="text-center mb-5 text-white"> {{ $g->keterangan }}
+                                        </p> --}}
                                     </div>
                                 </div>
                             </div>
